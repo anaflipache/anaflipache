@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👩🏼‍💻 **About me**
+# 👩🏼‍💻 **Chi sono**
 
 ### 👋🏻 *Ciao a tutti!*
 
@@ -11,29 +11,27 @@ Sono appassionata di **dati**, **automazione** e di **strumenti che semplificano
 
 Mi interessa in particolare la *visualizzazione dei dati* e l’*ottimizzazione dei processi decisionali*.  
 Attualmente sto approfondendo le mie competenze in **Python**, **SQL** e **Power BI**.  
-Mi entusiasma *imparare* cose nuove e *crescere* attraverso progetti concreti e collaborazioni.
+Mi entusiasma imparare cose nuove e crescere attraverso progetti concreti e collaborazioni.
 
+---
 
 ### 🎯 **Obiettivi attuali**
 
-📊 Rafforzare le mie competenze nell’**ingegneria dei dati** e **nella modellazione**
-💼 Collaborare a progetti che rendano i dati **più accessibili e utili** per il business,  
+📊 Rafforzare le mie competenze nell’**ingegneria dei dati** e **nella modellazione**  
+💼  
+Collaborare a progetti che rendano i dati **più accessibili e utili** per il business,  
 acquisendo esperienza pratica nell’*analisi* e nella *gestione dei dati* in contesti aziendali
 
-</div>
+<br><br>
 
+---
 
-<div align="center">
+### 🐍 GitHub Contribution Snake
 
---
-  
-### 🐍 **My GitHub Contribution Snake**
 ![Snake animation](https://github.com/anaflipache/snk/raw/output/github-contribution-grid-snake.svg)
 
-
-
 </div>
-  
+
 <!--
 **anaflipache/anaflipache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
