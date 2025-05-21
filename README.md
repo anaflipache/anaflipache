@@ -3,7 +3,8 @@
 <img src="banner.svg" alt="Banner Ana Maria Flipache" width="100%" />
 
 ### 🐍 My GitHub Contribution Snake
-![snake gif](https://anaflipache.github.io/snk/github-contribution-grid-snake.svg)
+![GitHub Contributions Snake](https://USERNAME.github.io/REPOSITORY/dist/github-contribution-grid-snake.svg)
+
 <!--
 **anaflipache/anaflipache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
