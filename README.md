@@ -13,8 +13,6 @@ Mi interessa in particolare la *visualizzazione dei dati* e l’*ottimizzazione 
 Attualmente sto approfondendo le mie competenze in **Python**, **SQL** e **Power BI**.  
 Mi entusiasma imparare cose nuove e crescere attraverso progetti concreti e collaborazioni.
 
----
-
 ### 🎯 **Obiettivi attuali**
 
 📊 Rafforzare le mie competenze nell’**ingegneria dei dati** e **nella modellazione**  
@@ -24,26 +22,9 @@ acquisendo esperienza pratica nell’*analisi* e nella *gestione dei dati* in co
 
 <br><br>
 
----
-
-### 🐍 GitHub Contribution Snake
+# 🐍 **GitHub Contribution Snake**
 
 ![Snake animation](https://github.com/anaflipache/snk/raw/output/github-contribution-grid-snake.svg)
 
 </div>
-
-<!--
-**anaflipache/anaflipache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
