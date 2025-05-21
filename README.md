@@ -25,7 +25,7 @@ acquisendo esperienza pratica nell’*analisi* e nella *gestione dei dati* in co
 
 <div align="center">
 
-
+--
   
 ### 🐍 **My GitHub Contribution Snake**
 ![Snake animation](https://github.com/anaflipache/snk/raw/output/github-contribution-grid-snake.svg)
