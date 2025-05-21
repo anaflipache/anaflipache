@@ -5,6 +5,7 @@
 # 👩🏼‍💻 **About me**
 
 ## 👋🏻 *Ciao a tutti!*
+
 Mi chiamo **Ana Maria Flipache** e sono una *Junior Data Engineer* con sede a Roma.  
 Sono appassionata di **dati**, **automazione** e di **strumenti che semplificano processi complessi**.
 
@@ -15,6 +16,7 @@ Mi entusiasma imparare cose nuove e crescere attraverso progetti concreti e coll
 
 
 ## 🎯 **Obiettivi attuali**
+
 📊 Rafforzare le mie competenze nell’**ingegneria dei dati** e **nella modellazione**  
 💼 Collaborare a progetti che rendano i dati **più accessibili e utili** per il business,  
 acquisendo esperienza pratica nell’*analisi* e nella *gestione dei dati* in contesti aziendali
