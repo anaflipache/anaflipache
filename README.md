@@ -11,7 +11,7 @@ Sono appassionata di **dati**, **automazione** e di **strumenti che semplificano
 
 Mi interessa in particolare la *visualizzazione dei dati* e l’*ottimizzazione dei processi decisionali*.  
 Attualmente sto approfondendo le mie competenze in **Python**, **SQL** e **Power BI**.  
-Mi entusiasma imparare cose nuove e crescere attraverso progetti concreti e collaborazioni.
+Mi entusiasma *imparare* cose nuove e *crescere* attraverso progetti concreti e collaborazioni.
 
 
 ### 🎯 **Obiettivi attuali**
@@ -24,9 +24,13 @@ acquisendo esperienza pratica nell’*analisi* e nella *gestione dei dati* in co
 
 
 <div align="center">
+
+
   
-### 🐍 My GitHub Contribution Snake
+### 🐍 **My GitHub Contribution Snake**
 ![Snake animation](https://github.com/anaflipache/snk/raw/output/github-contribution-grid-snake.svg)
+
+
 
 </div>
   
