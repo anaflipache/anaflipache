@@ -15,6 +15,7 @@ Mi entusiasma imparare cose nuove e crescere attraverso progetti concreti e coll
 
 
 
+
 ### 🎯 **Obiettivi attuali**
 
 📊 Rafforzare le mie competenze nell’**ingegneria dei dati** e **nella modellazione**  
