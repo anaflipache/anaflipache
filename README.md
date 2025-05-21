@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👩🏼‍💻 **Chi sono**
+# 👩🏼‍💻 **About me**
 
 ### 👋🏻 *Ciao a tutti!*
 
@@ -13,11 +13,10 @@ Mi interessa in particolare la *visualizzazione dei dati* e l’*ottimizzazione 
 Attualmente sto approfondendo le mie competenze in **Python**, **SQL** e **Power BI**.  
 Mi entusiasma imparare cose nuove e crescere attraverso progetti concreti e collaborazioni.
 
----
 
 ### 🎯 **Obiettivi attuali**
 
-📊 Rafforzare le mie competenze nell’ingegneria dei dati e nella modellazione  
+📊 Rafforzare le mie competenze nell’**ingegneria dei dati** e **nella modellazione**
 💼 Collaborare a progetti che rendano i dati **più accessibili e utili** per il business,  
 acquisendo esperienza pratica nell’*analisi* e nella *gestione dei dati* in contesti aziendali
 
