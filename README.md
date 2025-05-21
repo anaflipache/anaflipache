@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🐍 GitHub Contributions Snake
-![snake gif](https://github.com/anaflipache/snk/raw/output/github-contribution-grid-snake.svg)
+🐍 GitHub Contributions Snake
+![GitHub Contributions Snake](https://raw.githubusercontent.com/anaflipache/output/main/github-contribution-grid-snake.svg)
+
 
 ### Contatti
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/ana-maria-flipache-0a297a309)
