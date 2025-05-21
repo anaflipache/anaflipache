@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="assets/banner.svg" alt="Banner Ana Maria Flipache" width="100%" />
+
 
 <!--
 **anaflipache/anaflipache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
