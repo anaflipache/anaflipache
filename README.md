@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/anaflipache/snk/raw/output/github-contribution-grid-snake.svg)
 
 ### Contatti
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-maria-flipache-0a297a309/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/ana-maria-flipache-0a297a309)
