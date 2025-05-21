@@ -29,3 +29,13 @@ acquisendo esperienza pratica nell’*analisi* e nella *gestione dei dati* in co
 ![Snake animation](https://github.com/anaflipache/snk/raw/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<div align="center">
+  
+  ## 🌐 **Social**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/ana-maria-flipache-0a297a309) 
+  
+  
+  ### 👇🏻 *I miei progetti!*
+</div>
