@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## 📈 GitHub Contributions Snake
 
 ![snake gif](https://github.com/anaflipache/snk/raw/output/github-contribution-grid-snake.svg)
+
