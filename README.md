@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📈 GitHub Contributions Snake
+## 🐍 GitHub Contributions Snake
 
 ![snake gif](https://github.com/anaflipache/snk/raw/output/github-contribution-grid-snake.svg)
 
