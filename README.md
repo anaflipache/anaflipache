@@ -3,6 +3,7 @@
 <img src="banner.svg" alt="Banner Ana Maria Flipache" width="100%" />
 
 ### 🐍 My GitHub Contribution Snake
+![Snake animation](https://github.com/anaflipache/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 <!--
