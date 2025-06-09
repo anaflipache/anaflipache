@@ -35,6 +35,9 @@ acquisendo esperienza pratica nell’*analisi* e nella *gestione dei dati* in co
   ## 🌐 **Social**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/ana-maria-flipache-0a297a309) 
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visita%20qui-brightgreen)](https://anaflipache.carrd.co)  
+
   
   
   ### 👇🏻 *I miei progetti!*
